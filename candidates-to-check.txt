@@ -1,0 +1,11 @@
+ERC20 - Lottery (42), Memeslab (336)
+ERC721 - NewWorldAccessCards (59)
+
+
+WildFoxAirdrop - 267372
+
+SafeMath_224-lib - 4
+Ownable-lib - 6
+Address-lib - 12
+Base64-lib - 13
+Strings-lib - 16

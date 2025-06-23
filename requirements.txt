@@ -1,0 +1,14 @@
+jsonpath-ng
+neat-python
+jupyter-pip
+numpy
+neat-python
+visualize
+multiprocess
+invoke
+datasets
+ipywidgets
+ipykernel
+torch
+torchvision
+sklearn
